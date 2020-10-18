@@ -1,2 +1,2 @@
 # saphana_cua
-How manage users automaticly instead default profile
+How manage users automatically instead default profile
