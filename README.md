@@ -1,4 +1,4 @@
-# saphana_cua
-How manage users automatically instead default profile
-author : Rodolphe ALT
-website : https://www.altr-consulting.com
+# saphana_cua<br>
+How manage users automatically instead default profile<br>
+author : Rodolphe ALT<br>
+website : https://www.altr-consulting.com<br>
