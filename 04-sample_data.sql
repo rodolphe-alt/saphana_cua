@@ -1,3 +1,4 @@
+-- bundle version 20201020
 -- as DB admin (USER ADMIN ROLE) on tenant
 -- sample entries to test the application
 CREATE ROLE ZMODELING;
